@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<redirect-urls xmlns="http://www.demandware.com/xml/impex/redirecturl/2011-09-01">
+    <redirect-url source-id="running-Gloves" source-type="category" mode="delete">
+        <destination-id>All-Gloves</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/career" mode="delete">
+        <destination-id>activity-alpineClimbing</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="climbing-outerwear" source-type="category">
+        <destination-id>activity-alpineClimbing</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="climbing-sportswear" source-type="category">
+        <destination-id>activity-alpineClimbing</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="climbingcollection" source-type="category">
+        <destination-id>activity-alpineClimbing</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="hiking" source-type="category" mode="delete">
+        <destination-id>activity-backpacking</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="hiking-mens" source-type="category" mode="delete">
+        <destination-id>activity-backpacking</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="hiking-womens" source-type="category">
+        <destination-id>activity-backpacking</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="lifestyleCollection" source-type="category" mode="delete">
+        <destination-id>activity-travel</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="apexAwardWinners" source-type="category" mode="delete">
+        <destination-id>bestSellers</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="topRated" source-type="category" mode="delete">
+        <destination-id>bestSellers</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="campingEquipment" source-type="category">
+        <destination-id>equipment</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/mens-cold-weather-clothing">
+        <destination-id>layering</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/mens-cold-weather-clothing/">
+        <destination-id>layering</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/womens-cold-weather-clothing">
+        <destination-id>layering</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/womens-cold-weather-clothing/">
+        <destination-id>layering</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="1555021" source-type="product" mode="delete">
+        <destination-id>mens-accessories-headwear</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/en/mens-quilted-vest/">
+        <destination-id>mens-jackets</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="Men's Winter Jackets" source-type="category" mode="delete">
+        <destination-id>mens-jackets</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="mens-Parkas" source-type="category" mode="delete">
+        <destination-id>mens-jackets</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="OM5067" source-type="product" mode="delete">
+        <destination-id>mens-pantsShorts-casual</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/waterproof-backpacks-hiking/">
+        <destination-id>outdryPacks</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/en/womens-insulated-gloves*">
+        <destination-id>womens-accessories-gloves</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/en/womens-quilted-vest*">
+        <destination-id>womens-jackets</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="womens-parkas" source-type="category" mode="delete">
+        <destination-id>womens-jackets</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/hoodies-women/" mode="delete">
+        <destination-id>womens-jackets-insulated</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/womens-down-jackets/">
+        <destination-id>womens-jackets-insulated</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/.well-known/acme-challenge/P2mzmOj-d1f64Iw-hPrHMkrXJk-dgBGI1vnZuTbwG8A">
+        <destination-id>.well-known/acme-challenge/P2mzmOj-d1f64Iw-hPrHMkrXJk-dgBGI1vnZuTbwG8AP2mzmOj-d1f64Iw-hPrHMkrXJk-dgBGI1vnZuTbwG8A</destination-id>
+        <destination-type>content</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/careers" mode="delete">
+        <destination-id>Careers</destination-id>
+        <destination-type>content</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Awards/Awards,default,pg.html">
+        <destination-id>History</destination-id>
+        <destination-type>content</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Press/About_Us_Press_Landing,default,pg.html">
+        <destination-id>History</destination-id>
+        <destination-type>content</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Contact-Us/Contact_Us,default,pg.html">
+        <destination-id>customerService_contactUs</destination-id>
+        <destination-type>content</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Contact-Us/Customer_Service_Contact_Us_Landing,default,pg.html">
+        <destination-id>customerService_contactUs</destination-id>
+        <destination-type>content</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Customer-Service-FAQ-Warranty/Customer_Service_FAQ_Warranty,default,pg.html">
+        <destination-id>customerService_landing</destination-id>
+        <destination-type>content</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/psicobloc" mode="delete">
+        <destination-id>psicobloc</destination-id>
+        <destination-type>content</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Terms-of-Use/Terms_of_Use,default,pg.html">
+        <destination-id>terms-of-use</destination-id>
+        <destination-type>content</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Atlas-Poles/AtlasPoles,default,pg.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Home-Show">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Mountain-Hardwear-Stores/Stores_Landing,default,pg.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/stores</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/RETURNS" mode="delete">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/en/customerService_landing.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Returns">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/en/customerService_landing.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Seattle/Stores_Seattle,default,pg.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/stores</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/en/32degreecollection*">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/en/ProPurchase-SignUp" mode="delete">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/en/partner</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/en/activity">
+        <status-code>302</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/en/activity/">
+        <status-code>302</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/en/balaclava-ski-masks*">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/en/convertible-pants*">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/en/insulated-gloves*">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/en_CA/Order-Guest" mode="delete">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/on/demandware.store/Sites-MountainHardwear_CA_2016-Site/en_CA/Order-Status</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/en_CA/ProPurchase-SignUp">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/on/demandware.store/Sites-MountainHardwear_CA-Site/en_CA/Default-Start</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/en_CA/Product-Show?pid=VGC-MHW-CA" mode="delete">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/en/giftcards</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/en_CA/Product-Show?pid=VGC-MHW1CA" mode="delete">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/en/giftcards</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/fr_CA/Order-Guest" mode="delete">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/on/demandware.store/Sites-MountainHardwear_CA_2016-Site/fr_CA/Order-Status</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/fr_CA/ProPurchase-SignUp">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/on/demandware.store/Sites-MountainHardwear_CA-Site/fr_CA/Default-Start</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/fr_CA/Product-Show?pid=VGC-MHW-CA" mode="delete">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/fr/giftcards</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/fr_CA/Product-Show?pid=VGC-MHW1CA" mode="delete">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/fr/giftcards</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/m/" mode="delete">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/returns">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/en/customerService_landing.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/returs" mode="delete">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/en/customerService_landing.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="down-Parkas" source-type="category" mode="delete">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="dynothermCollection" source-type="category" mode="delete">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="flannelsPlaids" source-type="category" mode="delete">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="winter-Parkas" source-type="category" mode="delete">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+</redirect-urls>
