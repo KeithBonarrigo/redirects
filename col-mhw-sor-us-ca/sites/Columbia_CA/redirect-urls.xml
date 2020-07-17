@@ -653,7 +653,7 @@
     </redirect-url>
 
     <redirect-url uri="/en/vent" mode="delete">
-        <destination-id>footwear</destination-id>
+        <destination-id>footwear </destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
