@@ -40,7 +40,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/all_accessories/">
+    <redirect-url uri="/all_accessories/" mode="delete">
         <destination-id>accessories</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -48,7 +48,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Equipment/Equipment_Landing">
+    <redirect-url uri="/Equipment/Equipment_Landing" mode="delete">
         <destination-id>activity</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -96,7 +96,7 @@
         <copy-source-params>yes</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/casual">
+    <redirect-url uri="/casual" mode="delete">
         <destination-id>activity-casual-travel</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -120,7 +120,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/casual/">
+    <redirect-url uri="/casual/" mode="delete">
         <destination-id>activity-casual-travel</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -152,7 +152,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/casual-shoes*">
+    <redirect-url uri="/casual-shoes*" mode="delete">
         <destination-id>activity-casual-travel-shoes</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -200,7 +200,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="women-equipment-tents" source-type="category">
+    <redirect-url source-id="women-equipment-tents" source-type="category" mode="delete">
         <destination-id>activity-equipment</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -320,7 +320,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/barrelhead-duffel-xxl-UU9461.html">
+    <redirect-url uri="/barrelhead-duffel-xxl-UU9461.html" mode="delete">
         <destination-id>activity-equipment-duffels</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -344,7 +344,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Men's-PFG-Bahamaâ&#132;¢-Camo-Long-Sleeve/FM7341">
+    <redirect-url uri="/Men's-PFG-Bahamaâ¢-Camo-Long-Sleeve/FM7341">
         <destination-id>activity-fishing</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -360,7 +360,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Men's-PFG-Offshoreâ&#132;¢-Boardshort/FM4554">
+    <redirect-url uri="/Men's-PFG-Offshoreâ¢-Boardshort/FM4554">
         <destination-id>activity-fishing</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -456,7 +456,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-dockside-collection/">
+    <redirect-url uri="/mens-dockside-collection/" mode="delete">
         <destination-id>activity-fishing</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -632,7 +632,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/pfg-force12">
+    <redirect-url uri="/pfg-force12" mode="delete">
         <destination-id>activity-fishing</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -640,7 +640,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/pfg-force12/">
+    <redirect-url uri="/pfg-force12/" mode="delete">
         <destination-id>activity-fishing</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -648,7 +648,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/pfg-harborside">
+    <redirect-url uri="/pfg-harborside" mode="delete">
         <destination-id>activity-fishing</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -656,7 +656,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/pfg-harborside/">
+    <redirect-url uri="/pfg-harborside/" mode="delete">
         <destination-id>activity-fishing</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -664,7 +664,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/pfg-recreational">
+    <redirect-url uri="/pfg-recreational" mode="delete">
         <destination-id>activity-fishing</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -672,7 +672,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/pfg-recreational/">
+    <redirect-url uri="/pfg-recreational/" mode="delete">
         <destination-id>activity-fishing</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -696,7 +696,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/womens-pfg-lifestyle-apparel">
+    <redirect-url uri="/womens-pfg-lifestyle-apparel" mode="delete">
         <destination-id>activity-fishing</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -704,7 +704,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/womens-pfg-lifestyle-apparel/">
+    <redirect-url uri="/womens-pfg-lifestyle-apparel/" mode="delete">
         <destination-id>activity-fishing</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -712,7 +712,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="Collection_PFG" source-type="content">
+    <redirect-url source-id="Collection_PFG" source-type="content" mode="delete">
         <destination-id>activity-fishing</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -776,7 +776,7 @@
         <copy-source-params>yes</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/hiking-trail/Activity_Trail">
+    <redirect-url uri="/hiking-trail/Activity_Trail" mode="delete">
         <destination-id>activity-hiking</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -784,7 +784,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/trail-extended">
+    <redirect-url uri="/trail-extended" mode="delete">
         <destination-id>activity-hiking</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -792,7 +792,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/trail-extended/">
+    <redirect-url uri="/trail-extended/" mode="delete">
         <destination-id>activity-hiking</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -872,7 +872,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/hunting-clothing-jackets-bibs/">
+    <redirect-url uri="/hunting-clothing-jackets-bibs/" mode="delete">
         <destination-id>activity-hunting</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -880,7 +880,7 @@
         <copy-source-params>yes</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/hunting/Activity_Hunting">
+    <redirect-url uri="/hunting/Activity_Hunting" mode="delete">
         <destination-id>activity-hunting</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -920,7 +920,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/hunting-jackets-vests">
+    <redirect-url uri="/hunting-jackets-vests" mode="delete">
         <destination-id>activity-hunting-jackets</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -928,7 +928,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/hunting-jackets-vests/">
+    <redirect-url uri="/hunting-jackets-vests/" mode="delete">
         <destination-id>activity-hunting-jackets</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -1064,7 +1064,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/winter-jackets-insulated-coats*">
+    <redirect-url uri="/winter-jackets-insulated-coats*" mode="delete">
         <destination-id>activity-ski-snow-jackets</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -1088,7 +1088,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Bugaboot/footwear-men-bugaboot">
+    <redirect-url uri="/Bugaboot/footwear-men-bugaboot" mode="delete">
         <destination-id>activity-ski-snow-shoes</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -1304,7 +1304,7 @@
         <copy-source-params>yes</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/trail running">
+    <redirect-url uri="/trail running" mode="delete">
         <destination-id>activity-trailrunning</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -1312,7 +1312,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/trail running/">
+    <redirect-url uri="/trail running/" mode="delete">
         <destination-id>activity-trailrunning</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -1320,7 +1320,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/training">
+    <redirect-url uri="/training" mode="delete">
         <destination-id>activity-trailrunning</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -1328,7 +1328,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/training/">
+    <redirect-url uri="/training/" mode="delete">
         <destination-id>activity-trailrunning</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -1336,7 +1336,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="trail-flash" source-type="category">
+    <redirect-url source-id="trail-flash" source-type="category" mode="delete">
         <destination-id>activity-trailrunning</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -1344,7 +1344,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/training-accessories">
+    <redirect-url uri="/training-accessories" mode="delete">
         <destination-id>activity-trailrunning-accessories</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -1352,7 +1352,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/training-accessories/">
+    <redirect-url uri="/training-accessories/" mode="delete">
         <destination-id>activity-trailrunning-accessories</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -1384,7 +1384,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/training-shirts">
+    <redirect-url uri="/training-shirts" mode="delete">
         <destination-id>activity-trailrunning-shirts</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -1392,7 +1392,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/training-shirts/">
+    <redirect-url uri="/training-shirts/" mode="delete">
         <destination-id>activity-trailrunning-shirts</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -1416,7 +1416,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/trail running-shorts/">
+    <redirect-url uri="/trail running-shorts/" mode="delete">
         <destination-id>activity-trailrunning-shorts</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -1424,7 +1424,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/training-shorts">
+    <redirect-url uri="/training-shorts" mode="delete">
         <destination-id>activity-trailrunning-shorts</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -1432,7 +1432,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/training-shorts/">
+    <redirect-url uri="/training-shorts/" mode="delete">
         <destination-id>activity-trailrunning-shorts</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -1544,7 +1544,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Mens-Womens-Baselayer/Collection_Baselayer">
+    <redirect-url uri="/Mens-Womens-Baselayer/Collection_Baselayer" mode="delete">
         <destination-id>baselayer</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -1560,12 +1560,12 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/baselayer/men-baselayer">
+    <redirect-url uri="/baselayer/men-baselayer" mode="delete">
         <destination-id>baselayer</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
-        <additional-url-params>#prefn1=genderGroup&amp;prefv1=Men's</additional-url-params>
+      <additional-url-params>#prefn1=genderGroup&amp;prefv1=Men's</additional-url-params>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
@@ -1601,7 +1601,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/camping-equipment-sleeping-bags/">
+    <redirect-url uri="/camping-equipment-sleeping-bags/" mode="delete">
         <destination-id>camping</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -1609,7 +1609,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="equipment-sleepingBags" source-type="category">
+    <redirect-url source-id="equipment-sleepingBags" source-type="category" mode="delete">
         <destination-id>camping</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -1657,7 +1657,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Freestyle-Team-Inspired/freestyle_inspired">
+    <redirect-url uri="/Freestyle-Team-Inspired/freestyle_inspired" mode="delete">
         <destination-id>collegiate</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -2025,7 +2025,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/training-shoes">
+    <redirect-url uri="/training-shoes" mode="delete">
         <destination-id>footwear</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -2033,7 +2033,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/training-shoes/">
+    <redirect-url uri="/training-shoes/" mode="delete">
         <destination-id>footwear</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -2097,7 +2097,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="peakfreaknomad/*">
+    <redirect-url uri="peakfreaknomad/*" mode="delete">
         <destination-id>footwear</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -2121,7 +2121,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/kids-footwear*">
+    <redirect-url uri="/kids-footwear*" mode="delete">
         <destination-id>footwear-kids</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -2145,12 +2145,12 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/youth-minx-mid-ii-waterproof-omni-heat-boot-1566591.html">
+    <redirect-url uri="/youth-minx-mid-ii-waterproof-omni-heat-boot-1566591.html" mode="delete">
         <destination-id>footwear-kids</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
-        <additional-url-params>#prefn1=activity&amp;prefv1=Winter</additional-url-params>
+      <additional-url-params>#prefn1=activity&amp;prefv1=Winter</additional-url-params>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
@@ -2354,7 +2354,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="mens-bugaboot-ii-1690611.html">
+    <redirect-url uri="mens-bugaboot-ii-1690611.html" mode="delete">
         <destination-id>footwear-men-boots</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -2402,7 +2402,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-hiking-boots-trail-shoes/men-footwear-hikingTrail">
+    <redirect-url uri="/mens-hiking-boots-trail-shoes/men-footwear-hikingTrail" mode="delete">
         <destination-id>footwear-men-hiking</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -2490,7 +2490,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-water-shoes/men-footwear-waterBoat">
+    <redirect-url uri="/mens-water-shoes/men-footwear-waterBoat" mode="delete">
         <destination-id>footwear-men-water</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -2522,7 +2522,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/womens-conspiracy-iii-outdry-multi-sport-shoe-1584691.html">
+    <redirect-url uri="/womens-conspiracy-iii-outdry-multi-sport-shoe-1584691.html" mode="delete">
         <destination-id>footwear-women</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -2586,7 +2586,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/womens-vulc-n-vent-canvas-boat-pfg-shoe-1678311.html">
+    <redirect-url uri="/womens-vulc-n-vent-canvas-boat-pfg-shoe-1678311.html" mode="delete">
         <destination-id>footwear-women-casual</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -2658,7 +2658,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="giftGuide-stockingStuffers" source-type="category">
+    <redirect-url source-id="giftGuide-stockingStuffers" source-type="category" mode="delete">
         <destination-id>giftGuide</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -2682,7 +2682,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/kids-gifts-stockingstuffers/">
+    <redirect-url uri="/kids-gifts-stockingstuffers/" mode="delete">
         <destination-id>giftGuide-giftsForKids</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -2690,7 +2690,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="kids-gifts" source-type="category">
+    <redirect-url source-id="kids-gifts" source-type="category" mode="delete">
         <destination-id>giftGuide-giftsForKids</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -2722,7 +2722,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="giftGuide-giftcards" source-type="category">
+    <redirect-url source-id="giftGuide-giftcards" source-type="category" mode="delete">
         <destination-id>giftcards</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -2826,7 +2826,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/outdry-ex-stretch-jackets">
+    <redirect-url uri="/outdry-ex-stretch-jackets" mode="delete">
         <destination-id>jackets</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -2834,7 +2834,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/outdry-ex-stretch-jackets/">
+    <redirect-url uri="/outdry-ex-stretch-jackets/" mode="delete">
         <destination-id>jackets</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -2858,7 +2858,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="Ibex" source-type="category">
+    <redirect-url source-id="Ibex" source-type="category" mode="delete">
         <destination-id>jackets</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -2978,7 +2978,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="pants_kids" source-type="category">
+    <redirect-url source-id="pants_kids" source-type="category" mode="delete">
         <destination-id>kids-bottoms-pants</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -3114,7 +3114,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/girls-snow-boots">
+    <redirect-url uri="/girls-snow-boots" mode="delete">
         <destination-id>kids-girls-footwear</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -3122,7 +3122,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/girls-snow-boots/">
+    <redirect-url uri="/girls-snow-boots/" mode="delete">
         <destination-id>kids-girls-footwear</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -3234,7 +3234,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="kids-jacketsVests-windbreakers" source-type="category">
+    <redirect-url source-id="kids-jacketsVests-windbreakers" source-type="category" mode="delete">
         <destination-id>kids-jacketsVests</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -3298,7 +3298,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/kids-fishing-shirts">
+    <redirect-url uri="/kids-fishing-shirts" mode="delete">
         <destination-id>kids-tops</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -3306,7 +3306,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/kids-fishing-shirts/">
+    <redirect-url uri="/kids-fishing-shirts/" mode="delete">
         <destination-id>kids-tops</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -3330,7 +3330,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="fall-outdoor-clothing-sale">
+    <redirect-url uri="fall-outdoor-clothing-sale" mode="delete">
         <destination-id>labor-day</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -3346,7 +3346,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="160519_Homepage_Hero" source-type="content">
+    <redirect-url source-id="160519_Homepage_Hero" source-type="content" mode="delete">
         <destination-id>memorialDay</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -3442,7 +3442,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens/men">
+    <redirect-url uri="/mens/men" mode="delete">
         <destination-id>men</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -3466,7 +3466,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Tidewater/CW0040">
+    <redirect-url uri="/Tidewater/CW0040" mode="delete">
         <destination-id>men-accessories</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -3498,7 +3498,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-watches/men-accessories-watches">
+    <redirect-url uri="/mens-watches/men-accessories-watches" mode="delete">
         <destination-id>men-accessories</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -3634,7 +3634,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-st.-anthony-glove-1684041.html">
+    <redirect-url uri="/mens-st.-anthony-glove-1684041.html" mode="delete">
         <destination-id>men-accessories-glovesMittens</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -3698,7 +3698,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-hats/men-accessories-hatsHeadwear">
+    <redirect-url uri="/mens-hats/men-accessories-hatsHeadwear" mode="delete">
         <destination-id>men-accessories-hats</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -3738,7 +3738,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-sunglasses/men-accessories-sunglasses">
+    <redirect-url uri="/mens-sunglasses/men-accessories-sunglasses" mode="delete">
         <destination-id>men-accessories-sunglasses</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -3746,7 +3746,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-big-tall/men-bigTall">
+    <redirect-url uri="/mens-big-tall/men-bigTall" mode="delete">
         <destination-id>men-bigTall</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -3842,7 +3842,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-outdoor-sandals/men-footwear-sandals">
+    <redirect-url uri="/mens-outdoor-sandals/men-footwear-sandals" mode="delete">
         <destination-id>men-footwear-sandals</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -4202,7 +4202,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-big-tall-jackets-vests/men-bigTall-jacketsVests">
+    <redirect-url uri="/mens-big-tall-jackets-vests/men-bigTall-jacketsVests" mode="delete">
         <destination-id>men-jacketsVests</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -4218,7 +4218,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-fleece-jackets/men-jackets-fleece">
+    <redirect-url uri="/mens-fleece-jackets/men-jackets-fleece" mode="delete">
         <destination-id>men-jacketsVests</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -4226,7 +4226,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-jacket-shells/men-jackets-shells">
+    <redirect-url uri="/mens-jacket-shells/men-jackets-shells" mode="delete">
         <destination-id>men-jacketsVests</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -4234,7 +4234,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-jackets-insulated/men-jackets-insulated">
+    <redirect-url uri="/mens-jackets-insulated/men-jackets-insulated" mode="delete">
         <destination-id>men-jacketsVests</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -4242,7 +4242,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-jackets/men-jackets">
+    <redirect-url uri="/mens-jackets/men-jackets" mode="delete">
         <destination-id>men-jacketsVests</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -4266,7 +4266,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-softshell-jackets/men-jackets-softshell">
+    <redirect-url uri="/mens-softshell-jackets/men-jackets-softshell" mode="delete">
         <destination-id>men-jacketsVests</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -4274,7 +4274,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-vests-jackets/men-jackets-vests">
+    <redirect-url uri="/mens-vests-jackets/men-jackets-vests" mode="delete">
         <destination-id>men-jacketsVests</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -4346,7 +4346,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-fleece-pullovers/men-fleece-pullover">
+    <redirect-url uri="/mens-fleece-pullovers/men-fleece-pullover" mode="delete">
         <destination-id>men-jacketsVests-fleece</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -4354,7 +4354,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-fleece-vests/men-fleece-vests">
+    <redirect-url uri="/mens-fleece-vests/men-fleece-vests" mode="delete">
         <destination-id>men-jacketsVests-fleece</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -4378,7 +4378,7 @@
         <copy-source-params>no</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-featured-insulated-coats*">
+    <redirect-url uri="/mens-featured-insulated-coats*" mode="delete">
         <destination-id>men-jacketsVests-insulated</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -5034,7 +5034,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="pants_men" source-type="category">
+    <redirect-url source-id="pants_men" source-type="category" mode="delete">
         <destination-id>men-pantsShorts</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -5210,7 +5210,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/men-baselayer-tops/men-baselayer-tops">
+    <redirect-url uri="/men-baselayer-tops/men-baselayer-tops" mode="delete">
         <destination-id>men-shirts</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -5218,7 +5218,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-shirts/men-shirts">
+    <redirect-url uri="/mens-shirts/men-shirts" mode="delete">
         <destination-id>men-shirts</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -5522,7 +5522,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-long-sleeve-shirts/men-shirts-longsleeve">
+    <redirect-url uri="/mens-long-sleeve-shirts/men-shirts-longsleeve" mode="delete">
         <destination-id>men-shirts-longsleeve  (Category)</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -5610,7 +5610,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Men&#146;s-Bonehead&#153;-Short-Sleeve-Shirt/FM7130">
+    <redirect-url uri="/Mens-Bonehead-Short-Sleeve-Shirt/FM7130">
         <destination-id>men-shirts-shortsleeve</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -5674,7 +5674,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-short-sleeve-shirts/men-shirts-shortsleeve">
+    <redirect-url uri="/mens-short-sleeve-shirts/men-shirts-shortsleeve" mode="delete">
         <destination-id>men-shirts-shortsleeve</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -5698,7 +5698,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-t-shirts/men-shirts-tshirts">
+    <redirect-url uri="/mens-t-shirts/men-shirts-tshirts" mode="delete">
         <destination-id>men-shirts-tshirts</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -5738,7 +5738,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/trail-shoes-boots">
+    <redirect-url uri="/trail-shoes-boots" mode="delete">
         <destination-id>montrail-landing</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -5746,7 +5746,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/trail-shoes-boots/">
+    <redirect-url uri="/trail-shoes-boots/" mode="delete">
         <destination-id>montrail-landing</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -5762,7 +5762,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="montrail" source-type="content">
+    <redirect-url source-id="montrail" source-type="content" mode="delete">
         <destination-id>montrail-landing</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -5770,7 +5770,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="Montrail Vibram" source-type="category">
+    <redirect-url source-id="Montrail Vibram" source-type="category" mode="delete">
         <destination-id>montrailTechnology</destination-id>
         <destination-type>category</destination-type>
         <status-code>302</status-code>
@@ -5783,7 +5783,7 @@
         <destination-type>category</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
-        <additional-url-params>prefn1=productClass&amp;prefv1=Footwear</additional-url-params>
+      <additional-url-params>prefn1=productClass&amp;prefv1=Footwear</additional-url-params>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
@@ -5795,7 +5795,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="outdry-extreme-eco.html">
+    <redirect-url uri="outdry-extreme-eco.html" mode="delete">
         <destination-id>outdry-extreme-eco-landing</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -5803,7 +5803,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="outdry-extreme-eco" source-type="content">
+    <redirect-url source-id="outdry-extreme-eco" source-type="content" mode="delete">
         <destination-id>outdry-extreme-eco-landing</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -5811,7 +5811,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/training-pants">
+    <redirect-url uri="/training-pants" mode="delete">
         <destination-id>pants</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -5819,7 +5819,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/training-pants/">
+    <redirect-url uri="/training-pants/" mode="delete">
         <destination-id>pants</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -6019,7 +6019,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="outlet" source-type="category">
+    <redirect-url source-id="outlet" source-type="category" mode="delete">
         <destination-id>sale</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -6547,7 +6547,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Men's-Sale/sale-mens">
+    <redirect-url uri="/Men's-Sale/sale-mens" mode="delete">
         <destination-id>sale-men-shirts</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -6739,7 +6739,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Women's-Heavyweight-1/2-Zip/AL6400">
+    <redirect-url uri="/Women's-Heavyweight-1/2-Zip/AL6400" mode="delete">
         <destination-id>sale-women-jacketsVests</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -6803,7 +6803,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/on/demandware.store/Sites-Columbia_US-Site/en_US/Link-Category?cgid=rogue-one-landing">
+    <redirect-url uri="/on/demandware.store/Sites-Columbia_US-Site/en_US/Link-Category?cgid=rogue-one-landing" mode="delete">
         <destination-id>starwars</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -6944,7 +6944,7 @@
         <destination-type>category</destination-type>
         <status-code>302</status-code>
         <enabled-flag>false</enabled-flag>
-        <additional-url-params>#prefn1=genderGroup&amp;prefv1=Kids'</additional-url-params>
+      <additional-url-params>#prefn1=genderGroup&amp;prefv1=Kids'</additional-url-params>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
@@ -6972,7 +6972,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="montrail.com/technologies-gryptonite">
+    <redirect-url uri="montrail.com/technologies-gryptonite" mode="delete">
         <destination-id>technologies</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -6988,7 +6988,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/cooling/Collection_Omni-Freeze_ICE">
+    <redirect-url uri="/cooling/Collection_Omni-Freeze_ICE" mode="delete">
         <destination-id>technology-omniFreeze</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7020,7 +7020,7 @@
         <copy-source-params>yes</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="ohr3d" source-type="category">
+    <redirect-url source-id="ohr3d" source-type="category" mode="delete">
         <destination-id>technology-omniHeat3D</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7060,7 +7060,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/omniheat-Start">
+    <redirect-url uri="/omniheat-Start" mode="delete">
         <destination-id>technology-omniHeatReflective</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7108,7 +7108,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Collections/Technology_Omni-Wick_Evap">
+    <redirect-url uri="/Collections/Technology_Omni-Wick_Evap" mode="delete">
         <destination-id>technology-omniWickEvap</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7116,7 +7116,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/wicking/Collection_Omni-Wick_Evap_Omni-Dry">
+    <redirect-url uri="/wicking/Collection_Omni-Wick_Evap_Omni-Dry" mode="delete">
         <destination-id>technology-omniWickEvap</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7124,7 +7124,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/null/Technology_Omni-Wind_Block">
+    <redirect-url uri="/null/Technology_Omni-Wind_Block" mode="delete">
         <destination-id>technology-omniWindBlock</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7132,7 +7132,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/OutDry-Waterproof-Breathable-Gloves-Footwear/Collection_Outdry">
+    <redirect-url uri="/OutDry-Waterproof-Breathable-Gloves-Footwear/Collection_Outdry" mode="delete">
         <destination-id>technology-outdry</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7145,11 +7145,11 @@
         <destination-type>category</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
-        <additional-url-params>prefn1=productClass&amp;prefv1=Footwear</additional-url-params>
+      <additional-url-params>prefn1=productClass&amp;prefv1=Footwear</additional-url-params>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/outdryfootwearmobile">
+    <redirect-url uri="/outdryfootwearmobile" mode="delete">
         <destination-id>technology-outdry</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7165,7 +7165,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="montrail.com/technologies-outdry">
+    <redirect-url uri="montrail.com/technologies-outdry" mode="delete">
         <destination-id>technology-outdry</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7197,7 +7197,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="turbo-down-campaign" source-type="content">
+    <redirect-url source-id="turbo-down-campaign" source-type="content" mode="delete">
         <destination-id>technology-turboDown</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7229,7 +7229,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/titaniumchallenge">
+    <redirect-url uri="/titaniumchallenge" mode="delete">
         <destination-id>titanium</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7245,7 +7245,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/search?cgid=utmb">
+    <redirect-url uri="/search?cgid=utmb" mode="delete">
         <destination-id>utmb</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7253,7 +7253,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/search?cgid=workday-rainwear?icpa=cat&amp;icid=&amp;icsa=s18&amp;prid=weekend-rainwear&amp;crid=shop-workday">
+    <redirect-url uri="/search?cgid=workday-rainwear?icpa=cat&amp;icid=&amp;icsa=s18&amp;prid=weekend-rainwear&amp;crid=shop-workday" mode="delete">
         <destination-id>weekday-rainwear</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7261,7 +7261,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/search?cgid=workday-rainwear?icpa=hp&amp;icid=hero&amp;icsa=s18&amp;prid=wwrainwear&amp;crid=shop-workday">
+    <redirect-url uri="/search?cgid=workday-rainwear?icpa=hp&amp;icid=hero&amp;icsa=s18&amp;prid=wwrainwear&amp;crid=shop-workday" mode="delete">
         <destination-id>weekday-rainwear</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7269,7 +7269,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/workday-rainwear/?icpa=cat&amp;icid=&amp;icsa=s18&amp;prid=weekend-rainwear&amp;crid=shop-workday">
+    <redirect-url uri="/workday-rainwear/?icpa=cat&amp;icid=&amp;icsa=s18&amp;prid=weekend-rainwear&amp;crid=shop-workday" mode="delete">
         <destination-id>weekday-rainwear</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7277,7 +7277,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/workday-rainwear/?icpa=hp&amp;icid=hero&amp;icsa=s18&amp;prid=wwrainwear&amp;crid=shop-workday">
+    <redirect-url uri="/workday-rainwear/?icpa=hp&amp;icid=hero&amp;icsa=s18&amp;prid=wwrainwear&amp;crid=shop-workday" mode="delete">
         <destination-id>weekday-rainwear</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7285,7 +7285,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/products/winter-clothes-sale.html">
+    <redirect-url uri="/products/winter-clothes-sale.html" mode="delete">
         <destination-id>winter-sale</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7301,7 +7301,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mens-winter-boots-shoes/men-footwear-coldweather">
+    <redirect-url uri="/mens-winter-boots-shoes/men-footwear-coldweather" mode="delete">
         <destination-id>winterBoots</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7477,7 +7477,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/casual-yoga-pants*">
+    <redirect-url uri="/casual-yoga-pants*" mode="delete">
         <destination-id>women-bottoms</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7565,7 +7565,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="pants_women" source-type="category">
+    <redirect-url source-id="pants_women" source-type="category" mode="delete">
         <destination-id>women-bottoms</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7573,7 +7573,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="womens_pant_program" source-type="category">
+    <redirect-url source-id="womens_pant_program" source-type="category" mode="delete">
         <destination-id>women-bottoms</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7629,7 +7629,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/womens_anytime_outdoor">
+    <redirect-url uri="/womens_anytime_outdoor" mode="delete">
         <destination-id>women-bottoms-performanceActive</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7637,7 +7637,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/womens_anytime_outdoor/">
+    <redirect-url uri="/womens_anytime_outdoor/" mode="delete">
         <destination-id>women-bottoms-performanceActive</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7685,7 +7685,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/casual-travel-skirts-dresses/">
+    <redirect-url uri="/casual-travel-skirts-dresses/" mode="delete">
         <destination-id>women-bottoms-skirtsDresses</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7717,7 +7717,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/training-skirts/">
+    <redirect-url uri="/training-skirts/" mode="delete">
         <destination-id>women-bottoms-skirtsDresses</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7853,7 +7853,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/womens-puffer-jackets">
+    <redirect-url uri="/womens-puffer-jackets" mode="delete">
         <destination-id>women-jacketsVests</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7861,7 +7861,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/womens-puffer-jackets/">
+    <redirect-url uri="/womens-puffer-jackets/" mode="delete">
         <destination-id>women-jacketsVests</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7909,7 +7909,7 @@
         <copy-source-params>no</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/womens-shine-struck-rain-jacket-1566401.html">
+    <redirect-url uri="/womens-shine-struck-rain-jacket-1566401.html" mode="delete">
         <destination-id>women-jacketsVests-rainJackets</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -7997,7 +7997,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/casual-yoga-tops*">
+    <redirect-url uri="/casual-yoga-tops*" mode="delete">
         <destination-id>women-tops</destination-id>
         <destination-type>category</destination-type>
         <status-code>301</status-code>
@@ -8224,7 +8224,7 @@
     <redirect-url source-id="FL7311" source-type="product">
         <destination-id>1571411</destination-id>
         <destination-type>product</destination-type>
-        <product-category-id>women-tops-shortsleeve</product-category-id>
+      <product-category-id>women-tops-shortsleeve</product-category-id>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
@@ -8553,7 +8553,7 @@
     <redirect-url source-id="BM4444" source-type="product">
         <destination-id>1673141</destination-id>
         <destination-type>product</destination-type>
-        <product-category-id>footwear-men-casual</product-category-id>
+      <product-category-id>footwear-men-casual</product-category-id>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
@@ -8578,7 +8578,7 @@
     <redirect-url source-id="1558011" source-type="product">
         <destination-id>1680691</destination-id>
         <destination-type>product</destination-type>
-        <product-category-id>men-jacketsVests-interchange</product-category-id>
+      <product-category-id>men-jacketsVests-interchange</product-category-id>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
@@ -8653,7 +8653,7 @@
         <destination-type>product</destination-type>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
-        <additional-url-params>dwvar_1719261_variationColor=010#q=rainey&amp;start=8</additional-url-params>
+      <additional-url-params>dwvar_1719261_variationColor=010#q=rainey&amp;start=8</additional-url-params>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
@@ -9156,7 +9156,7 @@
     <redirect-url source-id="RL2436_S" source-type="product">
         <destination-id>RL2436</destination-id>
         <destination-type>product</destination-type>
-        <product-category-id>women-jacketsVests-rainJackets</product-category-id>
+      <product-category-id>women-jacketsVests-rainJackets</product-category-id>
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <copy-source-params>default</copy-source-params>
@@ -9226,7 +9226,7 @@
         <copy-source-params>yes</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/career/About_Us_Careers">
+    <redirect-url uri="/career/About_Us_Careers" mode="delete">
         <destination-id>About-Us_Careers</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9242,7 +9242,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="About-Us_Careers-Search" source-type="content">
+    <redirect-url source-id="About-Us_Careers-Search" source-type="content" mode="delete">
         <destination-id>About-Us_Careers</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9250,7 +9250,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/on/demandware.store/Sites-Columbia_US-Site/en_US/Page-Show?cid=About-Us_Corporate-Responsibility_Collaboration">
+    <redirect-url uri="/on/demandware.store/Sites-Columbia_US-Site/en_US/Page-Show?cid=About-Us_Corporate-Responsibility_Collaboration" mode="delete">
         <destination-id>About-Us_Collaboration</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9282,7 +9282,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Community-Involvement/Giving_Back_Focus_Areas_comm_inv">
+    <redirect-url uri="/Community-Involvement/Giving_Back_Focus_Areas_comm_inv" mode="delete">
         <destination-id>About-Us_Community</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9290,7 +9290,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Key-Initiatives/Giving_Back_Focus_Areas_Key_Initiatives">
+    <redirect-url uri="/Key-Initiatives/Giving_Back_Focus_Areas_Key_Initiatives" mode="delete">
         <destination-id>About-Us_Community</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9298,7 +9298,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Outdoor-Education/Giving_Back_Focus_Areas_Education">
+    <redirect-url uri="/Outdoor-Education/Giving_Back_Focus_Areas_Education" mode="delete">
         <destination-id>About-Us_Community</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9306,7 +9306,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Rethreads/Giving_Back_Programs_Rethreads">
+    <redirect-url uri="/Rethreads/Giving_Back_Programs_Rethreads" mode="delete">
         <destination-id>About-Us_Community</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9330,7 +9330,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Environmental-Conservation/Giving_Back_Focus_Areas_Conservation_Restoration">
+    <redirect-url uri="/Environmental-Conservation/Giving_Back_Focus_Areas_Conservation_Restoration" mode="delete">
         <destination-id>About-Us_Corporate-Responsibility</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9338,7 +9338,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Environmental-Corporate-Responsibility/Corp_Responsibility_Environmental">
+    <redirect-url uri="/Environmental-Corporate-Responsibility/Corp_Responsibility_Environmental" mode="delete">
         <destination-id>About-Us_Corporate-Responsibility</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9362,7 +9362,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Who-We-Are/Corp_Responsibility_Who_We_Are">
+    <redirect-url uri="/Who-We-Are/Corp_Responsibility_Who_We_Are" mode="delete">
         <destination-id>About-Us_Corporate-Responsibility</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9370,7 +9370,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/corporate-responsibility/About_Us_Corp_Responsibility">
+    <redirect-url uri="/corporate-responsibility/About_Us_Corp_Responsibility" mode="delete">
         <destination-id>About-Us_Corporate-Responsibility</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9378,7 +9378,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/environmental-responsibility/About-Us_Corporate-Responsibility_Environmental-Responsibility.html">
+    <redirect-url uri="/environmental-responsibility/About-Us_Corporate-Responsibility_Environmental-Responsibility.html" mode="delete">
         <destination-id>About-Us_Corporate-Responsibility</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9402,7 +9402,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Seagrass-Recovery/About_Us_Giving_Back_Seagrass">
+    <redirect-url uri="/Seagrass-Recovery/About_Us_Giving_Back_Seagrass" mode="delete">
         <destination-id>About-Us_Giving-Back_Conservation</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9410,7 +9410,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/seagrass">
+    <redirect-url uri="/seagrass" mode="delete">
         <destination-id>About-Us_Giving-Back_Conservation</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9458,7 +9458,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/history/About_Us_History">
+    <redirect-url uri="/history/About_Us_History" mode="delete">
         <destination-id>About-Us_History</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9466,7 +9466,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/on/demandware.store/Sites-Columbia_US-Site/default/Pioneer-ViewAndRate">
+    <redirect-url uri="/on/demandware.store/Sites-Columbia_US-Site/default/Pioneer-ViewAndRate" mode="delete">
         <destination-id>About-Us_History</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9474,7 +9474,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/who/who_history.cfm">
+    <redirect-url uri="/who/who_history.cfm" mode="delete">
         <destination-id>About-Us_History</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9490,7 +9490,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Michael-W.-McCormick/Officers_Michael_McCormick">
+    <redirect-url uri="/Michael-W.-McCormick/Officers_Michael_McCormick" mode="delete">
         <destination-id>About-Us_Officers-And-Directors</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9498,7 +9498,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Patrick-J.-Werner/Officers_Patrick_Werner">
+    <redirect-url uri="/Patrick-J.-Werner/Officers_Patrick_Werner" mode="delete">
         <destination-id>About-Us_Officers-And-Directors</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9706,7 +9706,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/on/demandware.store/Sites-Columbia_US-Site/default/Home-SelectCountry">
+    <redirect-url uri="/on/demandware.store/Sites-Columbia_US-Site/default/Home-SelectCountry" mode="delete">
         <destination-id>CountrySelector-Start</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9786,7 +9786,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Equipment-Accessories/Licensee_Landing">
+    <redirect-url uri="/Equipment-Accessories/Licensee_Landing" mode="delete">
         <destination-id>Licensee</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9858,7 +9858,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Order-CustService*">
+    <redirect-url uri="/Order-CustService*" mode="delete">
         <destination-id>customerService_landing</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -9954,7 +9954,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="Greater-Rewards-Landing" source-type="content">
+    <redirect-url source-id="Greater-Rewards-Landing" source-type="content" mode="delete">
         <destination-id>greater-rewards</destination-id>
         <destination-type>content</destination-type>
         <status-code>301</status-code>
@@ -10128,14 +10128,14 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Columbia-Outlets/Stores_outlets">
+    <redirect-url uri="/Columbia-Outlets/Stores_outlets" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/stores</destination-url>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Columbia-Stores/Stores">
+    <redirect-url uri="/Columbia-Stores/Stores" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/stores</destination-url>
@@ -10177,7 +10177,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Hagerstown">
+    <redirect-url uri="/Hagerstown" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/stores</destination-url>
@@ -10205,14 +10205,14 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Order-TrackOrderStatus">
+    <redirect-url uri="/Order-TrackOrderStatus" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/on/demandware.store/Sites-Columbia_US-Site/*/Order-Status</destination-url>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Outlets-at">
+    <redirect-url uri="/Outlets-at" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/stores</destination-url>
@@ -10275,7 +10275,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Sites-Columbia_US-Site/en_US/Page-Show?cid=Stores_outlets">
+    <redirect-url uri="/Sites-Columbia_US-Site/en_US/Page-Show?cid=Stores_outlets" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/stores</destination-url>
@@ -10296,35 +10296,35 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Stores/Stores_Landing">
+    <redirect-url uri="/Stores/Stores_Landing" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/stores</destination-url>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/StoresSG-Find*">
+    <redirect-url uri="/StoresSG-Find*" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/stores</destination-url>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Stores_portland_downtown/Stores_portland_downtown">
+    <redirect-url uri="/Stores_portland_downtown/Stores_portland_downtown" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/store?addr=portland-or-911-sw-broadway</destination-url>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Tanger-Outlet-Center-in-Park-City/Stores_parkcity">
+    <redirect-url uri="/Tanger-Outlet-Center-in-Park-City/Stores_parkcity" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/store?addr=park_city-ut-6699-n-landmark-dr-ste-e102</destination-url>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/Traverse-Mountain/Stores_Traverse-Mt">
+    <redirect-url uri="/Traverse-Mountain/Stores_Traverse-Mt" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/store?addr=lehi-ut-3700-n-cabelas-blvd</destination-url>
@@ -10342,7 +10342,7 @@
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/activity-hiking-trail/</destination-url>
-        <additional-url-params>prefn1=productClass&amp;prefv1=Shirts</additional-url-params>
+      <additional-url-params>prefn1=productClass&amp;prefv1=Shirts</additional-url-params>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
@@ -10360,14 +10360,14 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/award-winning-styles">
+    <redirect-url uri="/award-winning-styles" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/</destination-url>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/award-winning-styles/">
+    <redirect-url uri="/award-winning-styles/" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/</destination-url>
@@ -10381,14 +10381,14 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/contact-us/Contact_Us">
+    <redirect-url uri="/contact-us/Contact_Us" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>https://customercare.zendesk.com/hc/en-us/</destination-url>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/customercare/contactus">
+    <redirect-url uri="/customercare/contactus" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>https://customercare.zendesk.com/hc/en-us/articles/229782788-Contact-Us</destination-url>
@@ -10479,7 +10479,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/insulated-vests-down-vests">
+    <redirect-url uri="/insulated-vests-down-vests" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/</destination-url>
@@ -10507,7 +10507,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/mStoresSG-Find*">
+    <redirect-url uri="/mStoresSG-Find*" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/stores</destination-url>
@@ -10535,7 +10535,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/obits">
+    <redirect-url uri="/obits" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/</destination-url>
@@ -11410,7 +11410,7 @@
         <copy-source-params>no</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/testytest">
+    <redirect-url uri="/testytest" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/</destination-url>
@@ -11431,7 +11431,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url uri="/wimhofEnter">
+    <redirect-url uri="/wimhofEnter" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/</destination-url>
@@ -11459,7 +11459,7 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="staffPicks" source-type="category">
+    <redirect-url source-id="staffPicks" source-type="category" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>/</destination-url>
@@ -11473,14 +11473,14 @@
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="TriplePointsTitaniumNov2016FAQ" source-type="content">
+    <redirect-url source-id="TriplePointsTitaniumNov2016FAQ" source-type="content" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>https://customercare.zendesk.com/hc/en-us/articles/231646087-Titanium-Triple-Points-Promotion</destination-url>
         <copy-source-params>default</copy-source-params>
     </redirect-url>
 
-    <redirect-url source-id="apo-fpo" source-type="content">
+    <redirect-url source-id="apo-fpo" source-type="content" mode="delete">
         <status-code>301</status-code>
         <enabled-flag>true</enabled-flag>
         <destination-url>https://customercare.zendesk.com/hc/en-us/articles/231565127-Can-I-ship-to-an-APO-FPO-Address-</destination-url>
@@ -11537,3 +11537,4 @@
     </redirect-url>
 
 </redirect-urls>
+  
